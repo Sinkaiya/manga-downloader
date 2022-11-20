@@ -1,1 +1,1 @@
-# manga_downloader
+Sometimes it is much more comfortable not to read manga at special web-sites overloaded with ads and other distracting stuff but to just download it on a local machine and enjoy the fullscreen view with no distractions at all. Here I am trying to develop a solution to do that. :)
